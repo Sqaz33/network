@@ -1,6 +1,6 @@
 # Address Resolution Protocol (ARP)
 
-Is a [communication protocol](https://en.wikipedia.org/wiki/Communication_protocol "Communication protocol") for discovering the [link layer](https://en.wikipedia.org/wiki/Link_layer "Link layer") address, such as a [MAC address](https://en.wikipedia.org/wiki/MAC_address "MAC address"), associated with an [internet layer](https://en.wikipedia.org/wiki/Internet_layer "Internet layer") address, typically an [IPv4 address](https://en.wikipedia.org/wiki/IPv4_address).
+Is a [communication protocol](https://en.wikipedia.org/wiki/Communication_protocol "Communication protocol") for discovering the [link layer](https://en.wikipedia.org/wiki/Link_layer "Link layer") address, such as a [MAC address](https://en.wikipedia.org/wiki/MAC_address "MAC address"), associated with an [internet layer](https://en.wikipedia.org/wiki/Internet_layer "Internet layer") address, typically an [IPv4 address](https://en.wikipedia.org/wiki/IPv4_address). L2 protocol.
 
 # How ARP Works?
 
